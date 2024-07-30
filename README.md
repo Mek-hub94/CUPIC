@@ -1,0 +1,2 @@
+# CUPIC
+A photography Website
